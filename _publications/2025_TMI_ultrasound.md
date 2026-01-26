@@ -2,7 +2,6 @@
 title: "Angle-Independent Blood Flow Velocity Measurement With Ultrasound Speckle Decorrelation Analysis"
 collection: publications
 category: paper2025
-date: 2025
 venue: 'IEEE Transactions on Medical Imaging'
 citation: 'Wang, Y., Chen, W., He, Y., & Tang, J. (2025). Angle-Independent Blood Flow Velocity Measurement with Ultrasound Speckle Decorrelation Analysis. IEEE Transactions on Medical Imaging.'
 ---
