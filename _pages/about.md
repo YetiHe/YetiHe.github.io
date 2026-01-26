@@ -11,6 +11,6 @@ I expect to earn my Master's degree in 2026 from the Department of Biomedical En
 
 Before that, I received my Bachelor's degree in 2024 from the Department of Biomedical Engineering at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China. I was advised by Dr. Jianbo Tang ([Bio-Optic and Acoustic Technology Lab](https://sustech.edu.cn/en/faculties/tangjianbo.html)) in ultrasound imaging and optical coherence tomography. During this time, I was involved in ultrasound speckle decorrelation-based velocimetry and dynamic light scattering-OCT based quantitative imaging. 
 
-Currently, I am actively seeking 2026 Fall PhD positions.
-
 My research interests include optical imaging, computational imaging, and ultrasound imaging.
+
+Currently, I am actively seeking 2026 Fall PhD positions.
