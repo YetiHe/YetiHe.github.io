@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master student in the Biomedical Engineering department from [Johns Hopkins University](https://www.jhu.edu/), Baltimore, United States. I was co-advised by Dr.Ji Yi in laser scanning microscopy and Dr.Yu Sun in generative models. Before that, I was an undergraduate in the Biomedical Engineering department from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China, advised by Dr.Jianbo Tang in ultrasound speckle decorrelation-based velocimetry and dynamic light scattering-optical coherence tomography.
+I'm a Master student in the Department of Biomedical Engineering at [Johns Hopkins University](https://www.jhu.edu/), Baltimore, United States. I am co-advised by Dr.Ji Yi in high throughput laser scanning system and synthetic aperture microscopy, and Dr.Yu Sun in probabilistic generative models and implicit neural representation. 
 
-Currently, I am focused on integration of advanced computation and imaging pipeline. Meanwhile, I am actively seeking for 2026 Fall PhD positions.
+Before that, I was an undergraduate in the Department of Biomedical Engineering at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China, advised by Dr.Jianbo Tang in ultrasound speckle decorrelation-based velocimetry and dynamic light scattering-optical coherence tomography.
 
-My research interest includes optical imaging, computational imaging, and ultrasound imaging.
+Currently, I am focused on the integration of advanced computation and imaging pipelines. Meanwhile, I am actively seeking 2026 Fall PhD positions.
+
+My research interests include optical imaging, computational imaging, and ultrasound imaging.
