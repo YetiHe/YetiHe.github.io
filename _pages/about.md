@@ -14,3 +14,15 @@ Before that, I received my Bachelor's degree in 2024 from the Department of Biom
 My research interests include optical imaging, computational imaging, and ultrasound imaging.
 
 Currently, I am actively seeking 2026 Fall PhD positions.
+
+
+
+## News
+<div style="overflow-y: auto; height: 200px; border: 1px solid #ececec; padding: 15px; border-radius: 8px;">
+
+* **[Jan. 2026]** I have decided to join the **UCLA Bioengineering PhD program** for Fall 2026!
+* **[Dec. 2025]** Our paper on 3D deconvolution using diffusion models is currently under preparation/review.
+* **[June 2024]** Graduated from SUSTech and moved to Baltimore to start my Master's at JHU.
+* **[May 2024]** Successfully defended my undergraduate thesis on ultrasound speckle decorrelation.
+
+</div>
