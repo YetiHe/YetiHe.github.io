@@ -84,14 +84,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  paper2024:
-    title: '2024'
-  paper2025:
-    title: '2025'    
   paper2026:
     title: '2026'
-  paper2027:
-    title: '2027'
+  paper2025:
+    title: '2025'
+  paper2024:
+    title: '2024'
+
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
