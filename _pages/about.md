@@ -18,7 +18,8 @@ Currently, I am actively seeking 2026 Fall PhD positions.
 
 
 ## News
-<div style="overflow-y: auto; height: 200px; border: 1px solid #ececec; padding: 15px; border-radius: 8px;">
+
+<div style="overflow-y: auto; height: 200px; border: 1px solid #ececec; padding: 15px; border-radius: 8px;" markdown="1">
 
 * **[Jan. 2026]** I have decided to join the **UCLA Bioengineering PhD program** for Fall 2026!
 * **[Dec. 2025]** Our paper on 3D deconvolution using diffusion models is currently under preparation/review.
