@@ -21,10 +21,12 @@ Currently, I am actively seeking 2026 Fall PhD positions.
 
 <div style="overflow-y: auto; height: 200px; border: 1px solid #ececec; padding: 15px; border-radius: 8px;" markdown="1">
 
-* **[Jan. 2026]** dd
-* **[Dec. 2025]** ff
-* **[June 2024]** aa
-* **[May 2024]** gg
+* **[May 2025]** Joined the Hopkins Computational Imaging Group as a graduate research student.
+* **[Sep. 2024]** Joined the Yi Lab as a graduate research student.
+* **[June 2024]** Graduated from the SUSTech and received my Bachelor's degree.
+* **[July 2023]** Joined the Dr.Kawal Rhode's group at the King's College London as an undergraduate summer research student.
+* **[Jan. 2023]** Internship in the MGI Tech Co., Ltd.
+* **[Sep. 2021]** Joined the Bio-Optic and Acoustic Technology Lab as an undergraduate research student.
 
 </div>
 
