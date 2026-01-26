@@ -24,8 +24,8 @@ Currently, I am actively seeking 2026 Fall PhD positions.
 * **[May 2025]** Joined **Hopkins Computational Imaging Group** as a graduate research student.
 * **[Sep. 2024]** Started my Master's at **JHU**, Baltimore, United States, and joined **Yi Lab** as a graduate research student.
 * **[June 2024]** Graduated from **SUSTech** and received my Bachelor's degree.
-* **[July 2023]** Joined Dr. Kawal Rhode's group at the **King's College London** as an undergraduate summer research student.
-* **[Jan. 2023]** Internship in **MGI Tech Co., Ltd**.
+* **[July 2023]** Joined Dr. Kawal Rhode's group at **King's College London** as an undergraduate summer research student.
+* **[Jan. 2023]** Started my internship in **MGI Tech Co., Ltd**.
 * **[Sep. 2021]** Joined **Bio-Optic and Acoustic Technology Lab** as an undergraduate research student.
 * **[Sep. 2020]** Started my Bachelor's at **SUSTech**, Shenzhen, China.
 
