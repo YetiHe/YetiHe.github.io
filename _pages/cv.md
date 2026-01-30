@@ -30,7 +30,7 @@ Work experience
 * July 2022 - May 2024: Undergraduate Research Student
   * Bio-Optic and Acoustic Technology Lab, BME, SUSTech
   * Supervisor: Dr. Jianbo Tang
-  * Ultrasound plane wave imaging, optical coherence tomography, speckle-based dynamic theory
+  * Ultrasound plane wave imaging, optical coherence tomography, and speckle-based dynamic theory
  
 * July 2023 - Aug 2023: Summer Research Student
   * Dr. Kawal Rhode's Lab, BME, King's College London
