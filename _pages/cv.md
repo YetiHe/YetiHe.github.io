@@ -11,35 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Incoming Ph.D in Bioengineering, University of California, Los Angeles (UCLA), 2031 (expected)
+* M.S. in Biomedical Engineering, Johns Hopkins University (JHU), 2026 (expected)
+* B.E. in Intelligent Medical Engineering, Southern University of Science and Technology (SUSTech), 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025 - Present: Graduate Research Student
+  * Hopkins Computational Imaging Group, ECE, JHU
+  * Generative models in optical imaging
+  * Supervisor: Dr. Yu Sun
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2024 - Present: Graduate Research Student
+  * Yi Lab, BME, JHU
+  * Optical imaging, laser scanning systems, and digital adaptive optics
+  * Supervisor: Dr. Ji Yi
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2022 - May 2024: Undergraduate Research Student
+  * Bio-Optic and Acoustic Technology Lab, BME, SUSTech
+  * Ultrasound plane wave imaging, optical coherence tomography, speckle-based dynamic theory
+  * Supervisor: Dr. Jianbo Tang
+ 
+* July 2023 - Aug 2023: Summer Research Student
+  * Dr. Kawal Rhode's Lab, BME, King's College London
+  * Robotics simulation and signal filtering
+  * Supervisor: Dr. Kawal Rhode
   
-Skills
+Basic Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Modeling: SolidWorks
+* Programming
+  * Proficient in Python, Matlab
+  * Intermediate with C/C++, Java
+  * Familiar with C#, R
+* Writing: Latex
+* Language:
+  * Mandarin-Chinese (Native)
+  * English
 
 Publications
 ======
@@ -47,18 +55,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
