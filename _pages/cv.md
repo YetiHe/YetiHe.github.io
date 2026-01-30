@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Incoming Ph.D in Bioengineering, University of California, Los Angeles (UCLA), 2031 (expected)
+#* Incoming Ph.D in Bioengineering, University of California, Los Angeles (UCLA), 2031 (expected)
 * M.S. in Biomedical Engineering, Johns Hopkins University (JHU), 2026 (expected)
 * B.E. in Intelligent Medical Engineering, Southern University of Science and Technology (SUSTech), 2024
 
