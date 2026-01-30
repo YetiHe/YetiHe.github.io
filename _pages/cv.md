@@ -19,28 +19,28 @@ Work experience
 ======
 * May 2025 - Present: Graduate Research Student
   * Hopkins Computational Imaging Group, ECE, JHU
-  * Generative models in optical imaging
   * Supervisor: Dr. Yu Sun
+  * Generative models in optical imaging
 
 * Sep 2024 - Present: Graduate Research Student
   * Yi Lab, BME, JHU
-  * Optical imaging, laser scanning systems, and digital adaptive optics
   * Supervisor: Dr. Ji Yi
+  * Optical imaging, laser scanning systems, and digital adaptive optics
 
 * July 2022 - May 2024: Undergraduate Research Student
   * Bio-Optic and Acoustic Technology Lab, BME, SUSTech
-  * Ultrasound plane wave imaging, optical coherence tomography, speckle-based dynamic theory
   * Supervisor: Dr. Jianbo Tang
+  * Ultrasound plane wave imaging, optical coherence tomography, speckle-based dynamic theory
  
 * July 2023 - Aug 2023: Summer Research Student
   * Dr. Kawal Rhode's Lab, BME, King's College London
-  * Robotics simulation and signal filtering
   * Supervisor: Dr. Kawal Rhode
+  * Robotics simulation and signal filtering
   
 Basic Skills
 ======
 * Modeling: SolidWorks
-* Programming
+* Programming:
   * Proficient in Python, Matlab
   * Intermediate with C/C++, Java
   * Familiar with C#, R
