@@ -1,5 +1,7 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am Yetao He, a Chinese student from Guangzhou, China. I am actively seeking 2026 Fall PhD positions.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+I expect to earn my Master's degree in 2026 from the Department of Biomedical Engineering at Johns Hopkins University, Baltimore, United States. I am co-advised by Dr. Ji Yi (Yi Lab) on laser scanning systems, and Dr. Yu Sun (Hopkins Computational Imaging Group) on generative models. At this stage, I am focused on the high-throughput laser scanning microscopy, and the integration of advanced computational models and optical imaging pipelines.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+Prior to that, I received my Bachelor's degree in 2024 from the Department of Biomedical Engineering at Southern University of Science and Technology, Shenzhen, China. I was advised by Dr. Jianbo Tang (Bio-Optic and Acoustic Technology Lab) on ultrasound imaging and optical coherence tomography. During this time, I was involved in ultrasound speckle decorrelation-based velocimetry and dynamic light scattering-OCT based quantitative imaging.
+
+My research interests include optical imaging, computational imaging, and ultrasound imaging.
