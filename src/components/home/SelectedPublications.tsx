@@ -4,6 +4,8 @@ import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { Publication } from '@/types/publication';
 
+import Image from 'next/image'; // new1111
+
 interface SelectedPublicationsProps {
     publications: Publication[];
     title?: string;
@@ -36,9 +38,30 @@ export default function SelectedPublications({ publications, title = 'Selected P
                         transition={{ duration: 0.4, delay: 0.1 * index }}
                         className="bg-neutral-50 dark:bg-neutral-800 p-4 rounded-lg shadow-sm border border-neutral-200 dark:border-[rgba(148,163,184,0.24)] hover:shadow-lg transition-all duration-200 hover:scale-[1.02]"
                     >
+
+                        
+                    <div className="flex flex-col md:flex-row gap-4">
+                        {pub.preview && (
+                        <div className="w-full md:w-32 flex-shrink-0">
+                        <div className="aspect-video md:aspect-square relative rounded-md overflow-hidden bg-neutral-100 dark:bg-neutral-700">
+                        <Image
+                            src={`/papers/${pub.preview}`}
+                            alt={pub.title}
+                            fill
+                            className="object-cover"
+                            sizes="(max-width: 768px) 100vw, 150px"
+                        />
+                        </div>
+                        </div>
+                        )}
+
+                            
+                        <div className="flex-grow">
                         <h3 className="font-semibold text-primary mb-2 leading-tight">
                             {pub.title}
                         </h3>
+
+                            
                         <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-1">
                             {pub.authors.map((author, idx) => (
                                 <span key={idx}>
@@ -52,14 +75,19 @@ export default function SelectedPublications({ publications, title = 'Selected P
                                 </span>
                             ))}
                         </p>
+                            
                         <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-2">
                             {pub.journal || pub.conference}
                         </p>
+                            
                         {pub.description && (
                             <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2">
                                 {pub.description}
                             </p>
                         )}
+                            
+                    </div>
+                    </div>
                     </motion.div>
                 ))}
             </div>
