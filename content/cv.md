@@ -1,11 +1,11 @@
 ## Education
 
-**The Johns Hopkins University**, M.S. in Biomedical Engineering, *2024 - Present*
-- Research focus: Optical imaging, and generative models.
+**The Johns Hopkins University**, Baltimore, United States
+- M.S. in Biomedical Engineering, *2024 - Present*
 - Supervisor: Dr. Ji Yi and Dr. Yu Sun
 
-**The Southern University of Science and Technology**, B.E. in Intelligent Medical Engineering, *2020 - 2024*
-- Research focus: Optical imaging, and generative models.
+**The Southern University of Science and Technology**, Shenzhen, China
+- B.E. in Intelligent Medical Engineering, *2020 - 2024*
 - Supervisor: Dr. Jianbo Tang
 
   
