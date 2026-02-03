@@ -9,12 +9,25 @@ type MediaQueryListWithDeprecated = MediaQueryList & {
 };
 
 export function ThemeProvider({ children }: { children: React.ReactNode }) {
-  const { theme } = useThemeStore();
+  const { theme, setTheme } = useThemeStore(); 
   const [mounted, setMounted] = useState(false);
 
+  //useEffect(() => {
+  //  setMounted(true);
+  //}, []);
+
   useEffect(() => {
+    // +++ check whether requiring the system following +++
+    const savedThemeState = localStorage.getItem('theme-storage');
+    
+    // switch to system mode by default, if users are not choosing any modes
+    if (!savedThemeState || savedThemeState.includes('"theme":"system"')) {
+      setTheme('system');
+    }
+    // +++++++++++++++++++++++++++++++++++++++++++++
+
     setMounted(true);
-  }, []);
+  }, [setTheme]); // new
 
   useEffect(() => {
     if (!mounted) return;
