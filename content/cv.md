@@ -1,11 +1,11 @@
 ## Education
 
-**The Johns Hopkins University**, Baltimore, United States
-- M.S. in Biomedical Engineering, *2024 - Present*
+**The Johns Hopkins University**, Baltimore, United States, *2024 - Present*
+- M.S. in Biomedical Engineering
 - Supervisor: Dr. Ji Yi and Dr. Yu Sun
 
-**The Southern University of Science and Technology**, Shenzhen, China
-- B.E. in Intelligent Medical Engineering, *2020 - 2024*
+**The Southern University of Science and Technology**, Shenzhen, China, *2020 - 2024*
+- B.E. in Intelligent Medical Engineering
 - Supervisor: Dr. Jianbo Tang
 
   
