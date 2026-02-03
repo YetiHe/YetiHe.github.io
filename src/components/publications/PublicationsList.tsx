@@ -29,6 +29,10 @@ export default function PublicationsList({ config, publications, embedded = fals
     const [expandedBibtexId, setExpandedBibtexId] = useState<string | null>(null);
     const [expandedAbstractId, setExpandedAbstractId] = useState<string | null>(null);
 
+    //--------------------------------new--------------------------
+    const [expandedDescriptionId, setExpandedDescriptionId] = useState<string | null>(null); // new111
+    //--------------------------------end-----------------------------
+
     // Extract unique years and types for filters
     const years = useMemo(() => {
         const uniqueYears = Array.from(new Set(publications.map(p => p.year)));
@@ -231,10 +235,27 @@ export default function PublicationsList({ config, publications, embedded = fals
                                         {pub.journal || pub.conference} {pub.year}
                                     </p>
 
+
+                                    
                                     {pub.description && (
-                                        <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-4 line-clamp-3">
-                                            {pub.description}
+                                    <div className="mb-4">
+                                        <p className={cn(
+                                            "text-sm text-neutral-600 dark:text-neutral-500 transition-all duration-200",
+                                            // 如果 ID 匹配则不限制行数，否则限制 3 行
+                                            expandedDescriptionId === pub.id ? "" : "line-clamp-3"
+                                            )}>
+                                    {pub.description}
                                         </p>
+                                    {/* 如果描述文字较长（例如超过 120 字），则显示展开/收起按钮 */}
+                                    {pub.description.length > 120 && (
+                                        <button 
+                                        onClick={() => setExpandedDescriptionId(expandedDescriptionId === pub.id ? null : pub.id)}
+                                        className="text-xs text-accent hover:underline mt-1 font-medium"
+                                        >
+                                        {expandedDescriptionId === pub.id ? "Show less ↑" : "Read more ↓"}
+                                        </button>
+                                        )}
+                                        </div>
                                     )}
 
                                     <div className="flex flex-wrap gap-2 mt-auto">
