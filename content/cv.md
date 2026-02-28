@@ -39,5 +39,6 @@ Dr. Kawal Rhode's Lab, BME, King's College London, *2022 - 2022*
 - **Programming:** Proficient in Python, MatLab; Intermediate with C++, Java; Familiar with R, C#
 - **Modeling:** SolidWorks
 - **Writing:** Latex
+- **Analysis:** ImageJ
 - **Languages:** Chinese-Mandarin (Native), English
 
